@@ -18,4 +18,4 @@ This a pcb made for the program ["Solder"](https://solder.hackclub.com/)) with a
 * 1 batterie cell holder
 * 2 resistors
   
-Made by me (@guissidaamira)
+Made by me @guissidaamira
