@@ -3,7 +3,7 @@ This a pcb made for the program "Solder" with a lot of stars in. If the PCB, whe
 
 # PCB
 ![3D VIEW FRONT](Pictures/3Dfrontpcb.png)
-![Screenshot](Pictures/behind)
+![3D VIEW BACK](Pictures/3Dbehind.png)
 ![Screenshot](Pictures/PCBBBB.png)
 # Schematic
 ![Schematic of the PCB](Pictures/Schematic.png)
