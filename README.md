@@ -4,7 +4,7 @@ This a pcb made for the program "Solder" with a lot of stars in. If the PCB, whe
 # PCB
 ![3D VIEW]()
 # Schematic
-![Schematic of the PCB](/Pictures/schematic.png)
+![Schematic of the PCB](Pictures/Schematic.png)
 
 
 # What materials I used ?
