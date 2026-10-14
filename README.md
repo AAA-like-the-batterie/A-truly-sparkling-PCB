@@ -3,7 +3,7 @@ This a pcb made for the program ["Solder"](https://solder.hackclub.com/)) with a
 
 # PCB
 ![3D VIEW FRONT](Pictures/3DFRONT.png)
-![3D VIEW BACK](Pictures/3BACK.png)
+![3D VIEW BACK](Pictures/3DBACK.png)
 ![Screenshot](Pictures/PCB.png)
 # Schematic
 ![Schematic of the PCB](Pictures/Schematic.png)
