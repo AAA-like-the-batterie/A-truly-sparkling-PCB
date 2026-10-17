@@ -2,7 +2,7 @@
 This a pcb made for the program ["Solder"](https://solder.hackclub.com/)) with a lot of stars in (there's a hole in the PCB so it can be uses as badge or a keychain ). I've followed the [tutorials](https://solder.hackclub.com/start) beacuse I've never made a pcb before 👍​.
 
 # PCB
-![3D VIEW FRONT](Pictures/3DFRONT)
+![3D VIEW FRONT](Pictures/3DDFRONT)
 ![3D VIEW BACK](Pictures/PCBBACK.png)
 ![Screenshot](Pictures/PCBBB.png)
 # Schematic
