@@ -8,7 +8,7 @@ This a pcb made for the program ["Solder"](https://solder.hackclub.com/)) with a
 # Schematic
 ![Schematic of the PCB](Pictures/Schematiic.png)
 # Simulation
-#####(Screenshot
+##### (Screenshot)
 ![Simulation](Pictures/Simulation.png)
 
 # What does it do ?
