@@ -4,9 +4,9 @@ This a pcb made for the program ["Solder"](https://solder.hackclub.com/)) with a
 # PCB
 ![3D VIEW FRONT](Pictures/3DFRONT)
 ![3D VIEW BACK](Pictures/PCBBACK.png)
-![Screenshot](Pictures/PCB1.png)
+![Screenshot](Pictures/PCBBB.png)
 # Schematic
-![Schematic of the PCB](Pictures/Schematic.png)
+![Schematic of the PCB](Pictures/Schematiic.png)
 
 # What does it do ?
 * When the button is push, the LEDs light up (yes, it's quite simple).
